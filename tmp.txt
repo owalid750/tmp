@@ -1,2 +1,3 @@
  welcome to tmp file 
  hellow from remote github
+ welcome from ssh  local
